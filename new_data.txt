@@ -1,1 +1,1 @@
-here we place some data
+We decided to rewrite first line in new_data
