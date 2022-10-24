@@ -7,6 +7,6 @@ def func1(value):
 
 
 if __name__ == '__main__':
-    print(func1(5))
+    print(func1(10))
     print(func2(3))
 
