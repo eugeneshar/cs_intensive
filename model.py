@@ -7,6 +7,7 @@ def func1(value):
 
 
 def func2(value):
+    '''this function calculates second power of value'''
     square = value * value
     return square
 
